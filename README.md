@@ -9,7 +9,7 @@ I got inspiration for this project after reading [a post](https://news.ycombinat
 
 
 ###SQL
-* [Union Statement](sql/unionStatement.md)
+* [Union Statement](SQL/unionStatement.md)
 
 ##Other TIL's
 - https://til.hashrocket.com
