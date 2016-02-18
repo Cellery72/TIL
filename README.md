@@ -5,7 +5,7 @@ TodayILearned
 I got inspiration for this project after reading [a post](https://news.ycombinator.com/item?id=11068902) on HackerNews about this exact idea. I love the idea of keeping an ever growing collection of the things you learn on a daily basis. As a student, who also works in industry this is going to become a large collection of explanation/small bits of code pertaining to the topic at hand.
 
 ###Categories
-* [C#](/readme.md#C&#35;)
+* [C#](/readme.md#C#)
 * [SQL](#sql)
 
 ###C&#35;
